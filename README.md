@@ -90,12 +90,6 @@ power-bi-analyst-bootcamp-dio/
 ├── assets/                     # Dashboard screenshots
 └── README.md
 ```
-
----
-
-*Part of [Pedro Augusto's Data & AI Portfolio](https://github.com/YOUR_USERNAME)*
-
----
 ---
 
 # 📊 Power BI Analyst Bootcamp — DIO | Dashboard Financeiro
@@ -190,7 +184,3 @@ power-bi-analyst-bootcamp-dio/
 ├── assets/                     # Screenshots do dashboard
 └── README.md
 ```
-
----
-
-*Parte do [Portfólio de Dados & IA do Pedro Augusto](https://github.com/YOUR_USERNAME)*
